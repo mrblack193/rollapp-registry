@@ -2,7 +2,7 @@
   "chainId": "lightmode_7987418-1",
   "chainName": "lightmode_7987418-1",
   "rpc": "http://113.161.176.124:26657",
-  "rest": "http://113.161.176.124:26657",
+  "rest": "http://113.161.176.124:1317",
   "bech32Prefix": "ethm",
   "currencies": [
     {
